@@ -57,6 +57,7 @@ useEffect(() => {
             <li><a href="#experience">Experience</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#skills">Skills</a></li>
+           <li><a href="#resume">Resume</a></li> 
             <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
@@ -173,7 +174,7 @@ useEffect(() => {
   </ul>
 </div>
         <div className="project-card">
-  <h3>My Profile</h3>
+       <a href="https://github.com/Beniwalshab/my-personal-website" target="_blank" rel="noopener noreferrer">  <h3 className="linkss" >My Profile</h3></a>
   <p>
     A fully responsive personal portfolio website to showcase skills, projects, and experience.
   </p>
@@ -215,6 +216,18 @@ useEffect(() => {
         </ul>
       </section>
 
+     <section id="resume" className="resume">
+        <h2>Resume</h2>
+        <p>Download my resume to know more about my skills, education, and experience.</p>
+        <a
+          href="https://drive.google.com/file/d/1c8vidXBi9VAWp3ercuJl_fN8kb5i1upN/view?usp=drivesdk"  // <-- replace with your actual resume file path or URL
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn"
+        >
+          Download Resume
+        </a>
+      </section>
       {/* Contact */}
       <section id="contact" className="contact">
         <h2>Contact Me</h2>
