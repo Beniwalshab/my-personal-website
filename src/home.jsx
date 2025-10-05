@@ -174,7 +174,7 @@ useEffect(() => {
   </ul>
 </div>
         <div className="project-card">
-       <a href="https://github.com/Beniwalshab/my-personal-website" target="_blank" rel="noopener noreferrer">  <h3 className="linkss" >My Profile</h3></a>
+       <a href="https://my-personal-website-rosy-one.vercel.app/" target="_blank" rel="noopener noreferrer">  <h3 className="linkss" >My Profile</h3></a>
   <p>
     A fully responsive personal portfolio website to showcase skills, projects, and experience.
   </p>
@@ -251,9 +251,7 @@ useEffect(() => {
       </section>
 
       {/* Footer */}
-      {/* <footer>
-        <p>© 2025 Rahul Beniwal | All Rights Reserved</p>
-      </footer> */}
+    
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 
 <footer>
