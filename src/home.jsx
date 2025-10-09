@@ -220,7 +220,7 @@ useEffect(() => {
         <h2>Resume</h2>
         <p>Download my resume to know more about my skills, education, and experience.</p>
         <a
-          href="https://drive.google.com/file/d/1c8vidXBi9VAWp3ercuJl_fN8kb5i1upN/view?usp=drivesdk"  // <-- replace with your actual resume file path or URL
+          href="https://drive.google.com/file/d/1GKHXib0vFVJB_fc87LOKeZ_Hljfnkxjh/view?usp=drivesdk"  // <-- replace with your actual resume file path or URL
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
