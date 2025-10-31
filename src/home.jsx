@@ -144,7 +144,7 @@ useEffect(() => {
         <h2>Projects</h2>
         <div className="project-grid">
          <div className="project-card">
-            <a href="https://oneticktechnologies.com" target="_blank" rel="noopener noreferrer">  <h3 className="linkss" >Www.OnetickCdc.Com</h3></a>
+            <a href="https://onetickcdc.com" target="_blank" rel="noopener noreferrer">  <h3 className="linkss" >Www.OnetickCdc.Com</h3></a>
 
   <p>
     A web app to manage student records with login/authentication, filtering, and top student display.
