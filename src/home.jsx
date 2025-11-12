@@ -64,8 +64,9 @@ function Appc() {
       <section className="hero" id="home">
         <div className="content">
           <h1>Hi, I’m <span>RAHUL</span></h1>
-          <h3 id="typing">
-            <span style={{ visibility: "hidden" }}>Typing animation placeholder</span>
+          {/* Fixed heading: not empty */}
+          <h3 id="typing" aria-label="Typing animation">
+            Typing animation placeholder
           </h3>
           <p id="typing-para"></p>
           <div className="buttons">
