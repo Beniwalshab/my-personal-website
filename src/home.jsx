@@ -156,7 +156,7 @@ function Appc() {
           </div>
 
           <div className="project-card">
-            <a href="https://my-personal-website-rosy-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <a href="my-personal-website-rahul-beniwals-projects.vercel.app" target="_blank" rel="noopener noreferrer">
               <h3 className="linkss">My Profile</h3>
             </a>
             <p>A fully responsive personal portfolio website to showcase skills, projects, and experience.</p>
